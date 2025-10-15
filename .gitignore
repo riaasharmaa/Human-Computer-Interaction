@@ -1,6 +1,6 @@
-# Video files (large files)
-# *.mov
-# *.mp4
+# Video files (large files - too big for GitHub)
+*.mov
+*.mp4
 
 # IDE
 .vscode/
